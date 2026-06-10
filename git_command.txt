@@ -1,0 +1,28 @@
+1  history
+    2  clear
+    3  git init
+    4  git --version
+    5  git init
+    6  git add .
+    7  git commit -m "adding files"
+    8  git push origin master 
+    9  git status
+   10  ls
+   11  ls -l
+   
+   13  git push origin master
+   14  clear
+   15  git remote -v
+   
+   
+   17  git remote -v
+   18  git push origin master
+   19  git push origin main
+   20  git config --global user.name "Komal"
+   21  git config --global user.email "gawaikomal11@gmail.com"
+   22  git add .
+   23  git commit -m "adding my files"
+   24  git branch
+   25  git push -u origin master
+   26  clear
+   27  history
